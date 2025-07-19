@@ -1,0 +1,29 @@
+pre: Vou colocar aqui(por segurança) as respostas das perguntas que foram enviadas, essas respostas também estarão no email 
+
+1 - Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
+
+2 - Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma solução Open source como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
+
+3 - O que seria um projeto Open source? Como empresas podem adotar tais tecnologias e o que isso acarreta?
+
+
+R1: 
+A camada 2 é a camada de enlace de dados, é a parte de comunicação entre dispositivos que estão na mesma rede local (LAN)
+Ex de protocolos: Ethernet e Wifi
+
+A camada 3 é a de rede, tem a função de criar a comunicação entre dispositivos de diferentes LANs
+Ex de protocolos: IP -> IPv4; IPv6
+
+R2:
+A primeira vista, teoricamente adotar uma solução Open source pode parecer uma ideia melhor, se não focarmos em alguns pontos importantes
+Falarei as diferenças nos pontos positivos e negativos
+[Suporte] Uma solução proprietária, geralmente sai na frente, como é uma solução mais "confinada", quem faz o suporte tem mais noção do próprio produto, facilitando conhecimento em todo o sistema
+[Suporte] Uma solução open Open source pode sim ter um excelente suporte, mas quando existem alterações, um profissional de suporte pode não ter o conhecimento necessário das mudanças feitas
+[Preço] Uma solução proprietária muitas vezes é paga
+[Preço] Open Source geralmente são soluções gratuitas
+[Popularidade] Apesar de teoricamente serem menos populares por muitas vezes serem pagas, as soluções Open Source podem ter estratégias, como a Microsoft e o Winrar tiveram para popularizar a solução e acabar "forçando" empresas a comprar
+[Popularidade] Por causa do argumento dessas estratégias, muitas vezes soluções Open Source são menos populares, como é o caso de SOs Linux em relação ao Windows, mas em compensação, uma comunidade pode criar e desenvolver bem em cima de uuma solução Open Source
+[Acesso ao código fonte] Na minha visão é uma vantagem do Open Source aqui, lógico que muitas vezes não é necessário, mas poder geralmente é melhor que não poder
+
+R3:
+Projeto Open Source é aquele em que o código fonte é aberto, mas não quer dizer necessariamente que pode ser usado empresarialmente de forma gratuita, ou que possa ser modificado e comercializado. Empresas podem adotar (pagando nos casos em que uso/comerciaização não são gratuitos) essas tecnologias para montar exatamente para o nicho/escopo das mesmas. Pode criar sua própria versão, utilizá-la ou vendê-la. 
